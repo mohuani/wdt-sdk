@@ -1,0 +1,15 @@
+{
+    "name": "mohuani/wdt-sdk",
+    "autoload": {
+        "psr-4": {
+            "Mohuani\\WdtSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohuani",
+            "email": "wfk2975019671@sina.com"
+        }
+    ],
+    "require": {}
+}
