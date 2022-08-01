@@ -11,5 +11,7 @@
             "email": "wfk2975019671@sina.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4.0"
+    }
 }

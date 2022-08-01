@@ -13,7 +13,7 @@ use App\Services\Wdt\RequestCheckUtil;
 /**
  * Class WdtRefundQueryRequest
  * @package App\Services\Wdt\Request
- * User: 伏地魔
+ * User: mohuani
  * Date：2021/11/2 16:31
  */
 class WdtRefundQueryRequest {
